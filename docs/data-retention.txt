@@ -1,0 +1,4 @@
+Durée de conservation des données
+
+Les données utilisateurs sont conservées sans durée de rétention définie.
+La suppression des données peut être demandée par email.
